@@ -1,0 +1,53 @@
+Crosspost Studio — Proprietary Software License
+Copyright (c) 2026 RetroNyym. All rights reserved.
+
+END-USER LICENSE AGREEMENT (EULA)
+
+1. GRANT OF LICENSE
+   RetroNyym ("Lisans Veren") grants you ("Lisans Alan") a personal,
+   non-exclusive, non-transferable, revocable license to install and use
+   Crosspost Studio ("Yazılım") on devices you own or control, subject to
+   the limitations below.
+
+2. RESTRICTIONS
+   You MAY NOT:
+   a) reverse engineer, decompile, disassemble, decrypt, or otherwise attempt
+      to derive the source code or internal structure of the Yazılım;
+   b) modify, adapt, translate, or create derivative works of the Yazılım;
+   c) redistribute, rent, sell, sublicense, lease, or publicly host the
+      Yazılım or any of its components, including installer files obtained
+      from official Releases channels;
+   d) share, resell, or publish license keys, tokens, or trial entitlements;
+   e) remove, alter, or obscure any copyright, trademark, or license notices;
+   f) use automated means to circumvent license validation or hardware
+      binding mechanisms.
+
+3. DISTRIBUTION
+   The only official distribution channel is the GitHub repository
+   RetroNyym/crosspost-desktop Releases page. Third-party copies are
+   unlicensed and may be malicious.
+
+4. TRIAL ENTITLEMENTS
+   Free trial credits ("haklar") are bound to the hardware identifier of the
+   activating device, are issued once per device, and are consumed by actual
+   uploads. Trial entitlements have no cash value.
+
+5. OWNERSHIP
+   The Yazılım is licensed, not sold. All intellectual property rights,
+   including but not limited to code, assets, UI design, and branding,
+   remain the exclusive property of RetroNyym.
+
+6. TERMINATION
+   This license terminates automatically if you breach any of its terms.
+   Upon termination you must cease all use and destroy all copies.
+
+7. DISCLAIMER OF WARRANTY
+   THE YAZILIM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHOR BE LIABLE FOR ANY CLAIM OR DAMAGES ARISING FROM USE OF THE
+   YAZILIM OR THIRD-PARTY PLATFORM POLICY CHANGES.
+
+8. CONTACT
+   Licensing, resale and membership inquiries:
+   aiyolculugu@gmail.com
