@@ -40,7 +40,7 @@
 
 | Kuyruk & Otomasyon | Platformlar & Girişler |
 | --- | --- |
-| ![Otomatik izleyici ve zamanlanmış gönderim kuyruğu](shots/watch.png) | ![TikTok, Instagram ve YouTube API anahtarı giriş ekranı](shots/platforms.png) |
+| ![Otomatik izleyici ve zamanlanmış gönderim kuyruğu](shots/watch.png) | ![TikTok, Instagram ve YouTube logolu tek tuşla bağlanma ekranı](shots/platforms.png) |
 
 | Lisans | Geçmiş |
 | --- | --- |
@@ -51,6 +51,8 @@
 ## ✨ Özellikler
 
 - **Çapraz yayın** — aynı videoyu TikTok, Instagram Reels ve YouTube Shorts'a gönderir
+- **Tek tuşla bağlantı** — logolu **YouTube'a Bağlan**, **TikTok'a Bağlan**, **Instagram'ı Bağla**
+  butonları; giriş yapıldığı anda platform otomatik olarak etkinleşir
 - **Tek pano** — sürükle-bırak yükleme, açıklama + hashtag editörü, canlı log
 - **Otomatik izleyici** — `inbox/` klasörüne düşen her videoyu otomatik dağıtır (Pro+)
 - **Zamanlanmış gönderim** — videoları belirlediğiniz saate programlayın (Studio)
