@@ -5,6 +5,18 @@
 <h1 align="center">Crosspost Studio</h1>
 
 <p align="center">
+  <b>Windows için TikTok · Instagram Reels · YouTube Shorts çapraz yükleme (crosspost) uygulaması</b><br>
+  Tek bir videoyu üç platforma aynı anda otomatik yayınlayın
+</p>
+
+<p align="center">
+  🌐 <b>English:</b> Crosspost Studio is a Windows desktop app that cross-posts one video to
+  TikTok, Instagram Reels and YouTube Shorts — with an auto watch-folder, batch queue,
+  scheduled publishing, hardware-locked licensing and silent auto-updates.
+  Everyone gets <b>5 free uploads</b> on install. Paid plans: Pro &amp; Studio.
+</p>
+
+<p align="center">
   <b>Tek video → TikTok · Instagram Reels · YouTube Shorts</b><br>
   Windows masaüstü uygulaması — tek tıkla çapraz yayın
 </p>
@@ -24,15 +36,15 @@
 
 | Panel | Yükleme |
 | --- | --- |
-| ![Panel](shots/dashboard.png) | ![Yükleme](shots/upload.png) |
+| ![Crosspost Studio panel — TikTok, Instagram Reels ve YouTube Shorts çapraz yükleme panosu](shots/dashboard.png) | ![Crosspost Studio yükleme sayfası — sürükle bırak video, açıklama ve hashtag editörü](shots/upload.png) |
 
 | Kuyruk & Otomasyon | Platformlar & Girişler |
 | --- | --- |
-| ![Kuyruk](shots/watch.png) | ![Platformlar](shots/platforms.png) |
+| ![Otomatik izleyici ve zamanlanmış gönderim kuyruğu](shots/watch.png) | ![TikTok, Instagram ve YouTube API anahtarı giriş ekranı](shots/platforms.png) |
 
 | Lisans | Geçmiş |
 | --- | --- |
-| ![Lisans](shots/license.png) | ![Geçmiş](shots/jobs.png) |
+| ![Crosspost Studio lisans ve üyelik sayfası](shots/license.png) | ![İş geçmişi ve sonuç ekranı](shots/jobs.png) |
 
 ---
 
@@ -92,6 +104,14 @@ Programı **indiren herkese 5 ücretsiz yükleme hakkı** verilir:
   almaması için paylaşılan içerik kurallarına uyunuz.
 - Lisans doğrulaması çevrimdışıyken **7 güne kadar** çalışır; sonrasında kısa bir
   internet bağlantısı gerekir.
+
+## 🏷️ Anahtar Kelimeler
+
+Crosspost · çapraz yükleme · TikTok yükleme programı · Instagram Reels yükleme ·
+YouTube Shorts yükleme · toplu yükleme · otomatik paylaşım · içerik çapraz yayın ·
+cross-post bot · TikTok to Reels · Reels to Shorts · video dağıtım aracı ·
+zamanlanmış gönderim · sosyal medya otomasyonu · Windows masaüstü uygulaması ·
+Shorts uploader · social media crossposter · ücretsiz 5 hak
 
 ## 📄 Lisans & Hükümler
 
